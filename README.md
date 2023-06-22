@@ -1,4 +1,4 @@
-- Hi, I’m Ivayla Shopova! 👋
+- 👋 Hi, I’m Ivayla Shopova!
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Python and I'm still continuing my studies.
 
